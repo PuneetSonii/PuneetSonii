@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PuneetSonii
+- 👋 Hi, I’m Puneet
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
+- 🌱 I’m addicted to learning and growing every day.
 - 📫 How to reach me puneetsonii369@gmail.com
 
 <!---
